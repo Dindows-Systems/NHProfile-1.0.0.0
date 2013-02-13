@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Profile.Tests", "NHibernate.Profile.Tests\NHibernate.Profile.Tests.csproj", "{2B177F29-228A-4645-925B-F2F18FB4A567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Profile.Example", "NHibernate.Profile.Example\NHibernate.Profile.Example.csproj", "{3F3987E8-F659-41AE-A1D8-3569CF33F58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Profile", "NHibernate.Profile\NHibernate.Profile.csproj", "{9519E37A-1D5F-4039-9351-395E27D16EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B177F29-228A-4645-925B-F2F18FB4A567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B177F29-228A-4645-925B-F2F18FB4A567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B177F29-228A-4645-925B-F2F18FB4A567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B177F29-228A-4645-925B-F2F18FB4A567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3987E8-F659-41AE-A1D8-3569CF33F58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3987E8-F659-41AE-A1D8-3569CF33F58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3987E8-F659-41AE-A1D8-3569CF33F58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3987E8-F659-41AE-A1D8-3569CF33F58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9519E37A-1D5F-4039-9351-395E27D16EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9519E37A-1D5F-4039-9351-395E27D16EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9519E37A-1D5F-4039-9351-395E27D16EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9519E37A-1D5F-4039-9351-395E27D16EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
